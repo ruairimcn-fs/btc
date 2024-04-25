@@ -1,0 +1,20 @@
+{
+  "name": "Be There Certificate",
+  "short_name": "BTC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FFCC52",
+  "icons": [
+    {
+      "src": "https://uploads-ssl.webflow.com/644fbcdb7589c45373c8199d/648fe300f75399278ba6e76a_btc-favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/644fbcdb7589c45373c8199d/648fe397dc6153f840d6d093_btc-webclip.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
